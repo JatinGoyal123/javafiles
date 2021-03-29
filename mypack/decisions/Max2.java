@@ -1,0 +1,12 @@
+package mypack.decisions;
+
+   public class Max2
+   {
+   public int getMax2(int x,int y)
+   {
+   if(x>y)
+    return x;
+   else
+    return y;
+   }
+   }
